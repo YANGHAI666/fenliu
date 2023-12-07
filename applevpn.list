@@ -54,3 +54,5 @@ DOMAIN,mask.apple-dns.net
 DOMAIN,mask.icloud.com
 ## Other
 DOMAIN-SUFFIX,apple-dns.net
+##email
+DOMAIN,p209-imap.mail.icloud.com.cn
